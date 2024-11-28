@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve --project=main-app",
     "build": "ng build --project=main-app",
+    "vercel-build": "ng build --project=main-app",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
